@@ -6,14 +6,14 @@ A collection of small projects I have done.
 <p>
 This was a small project I did during my internship.
   
-I was tasked with anaysising the effectivness of various marketing campaigns. The campaigns involved sending targeting reminders to select customers at specific times. I was given the database containing the relevant customber segments, which I then merged, in python, with the customer data for all purchases during specific times. I used the new merged data set to visialise, in Tableau, the volume of sales over time for various campaigns.
+I was tasked with anaysising the effectivness of various marketing campaigns. The campaigns involved sending targeting reminders to select customers at specific times. I was given the database containing the relevant customber segments, which I then merged, using python, with the customer data for all purchases during specific times. I used the new merged data set to visialise, in Tableau, the volume of sales over time for various campaigns.
 
 I was able to conclude which campaign was the most effective, thus assisting the marketing team in deciding where to focus their time and budget.
 
 Visualisation:
 <img src="">
 
-Code: <a href= "https://github.com/MwelwaM/BusinesssAnalytics/blob/main/Business%20Analysis%20Task%201.ipynb"> here: </a>
+Code: <a href= "https://github.com/MwelwaM/Portfolio_Projects/blob/main/Merged%20single%20code%20.py"> here: </a>
 
 Please note, aspects of the original project have been altered to protect sensitive business infomation.
 
